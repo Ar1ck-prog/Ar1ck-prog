@@ -12,7 +12,7 @@ Student at NIS (Nazarbayev Intellectual School) in Aktau, Kazakhstan. I build we
 - [QuickCheck](https://github.com/Ar1ck-prog/QuickCheck): an AI assistant that checks suspicious messages for fraud.
 - Team S7 Robotics, FIRST LEGO League 2026/27.
 
-**Stack:** Next.js · React · TypeScript · Supabase · Python · C++ · Figma · Claude Code · Google Antigravity
+**Stack:** Next.js · React · TypeScript · Supabase · Python · Figma · Claude Code · Google Antigravity
 
 **Contact:** arlandev1108@gmail.com · [Instagram](https://www.instagram.com/mon1k_off/)
 
